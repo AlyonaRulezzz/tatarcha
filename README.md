@@ -1,3 +1,3 @@
 # tatarcha
-urama taktalishi
+urama taktalishi \
  Проект с Татарского хакатона.
